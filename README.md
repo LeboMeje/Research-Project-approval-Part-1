@@ -19,6 +19,7 @@ Build an IoT smart home system that can control lights, temperature, and securit
 
 # How it works
 This program is designed to:
+
 Set up the Raspberry Pi and sensors. Connect the DHT11 temperature and humidity sensor and HC-SR501 PIR motion sensor to the Raspberry Pi's GPIO pins.
 You'll need to download and install the Adafruit_DHT library to interface with the DHT11 sensor.
 Control lights with the relay module.
@@ -38,7 +39,7 @@ The app will consist of a Flask web server, temperature and humidity sensor, mot
 | `pushbullet_api.py` |
 | `app.py` |
 | `home.html` |
-| `static.css` |
+| `style.css` |
 
 ## Contributor
 Lebohang Meje
