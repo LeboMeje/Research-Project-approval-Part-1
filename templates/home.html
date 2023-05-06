@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Smart Home System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+    <h1>Smart Home System</h1>
+    <div class="sensor">
+      <h2>Temperature</h2>
+      <p>{{ temperature }}&deg;C</p>
+    </div>
+    <div class="sensor">
+      <h2>Humidity</h2>
+      <p>{{ humidity }}%</p>
+    </div>
+    <div class="sensor">
+      <h2>Motion Detected</h2>
+      {% if motion_detected %}
+      <p>Yes</p>
+      {% else %}
+      <p>No</p>
+      {% endif %}
+    </div>
+  </body>
+</html>
